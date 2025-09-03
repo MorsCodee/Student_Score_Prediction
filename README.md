@@ -110,7 +110,6 @@ Evaluation Metrics used:
 ## Acknowledgement
 
 Dataset: [Kaggle – Student Performance Factors](https://www.kaggle.com/)
-Internship Task Guidelines
 
 ---
 
