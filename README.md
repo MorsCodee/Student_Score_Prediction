@@ -1,4 +1,3 @@
----
 
 #  Student Exam Score Prediction – Linear & Polynomial Regression
 
